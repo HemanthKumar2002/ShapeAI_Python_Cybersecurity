@@ -1,8 +1,0 @@
--------------------------------------------------------------
-Weather Stats for - SOUTHAMPTON  || 22 Jun 2021 | 03:17:49 PM
--------------------------------------------------------------
-Current temperature is: 12.94 deg C
-Current Weather Status: Clouds
-Current weather desc  : few clouds
-Current Humidity      : 79 %
-Current wind speed    : 2.68 kmph
